@@ -1,0 +1,20 @@
+{
+  "name": "crud-node-express",
+  "version": "1.0.0",
+  "description": "basic express crud api with mongoose and jsonwebtoken",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "Elteyab Hassan",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
